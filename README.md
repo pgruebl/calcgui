@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Start backend
+
+* sudo service docker start
+* Build and deploy project Taschenrechner
+* docker run -d -p 8080:8080 calc
+
 ## Available Scripts
 
 In the project directory, you can run:
